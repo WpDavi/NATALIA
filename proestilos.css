@@ -32,8 +32,13 @@ main ul {
     font-size: 27px;
     margin-left: 40px;
     color: #7C451E;
+    transition: 0.3s;
 } 
 
+main ul li:hover {
+    
+    color: red;
+} 
 
 
 
