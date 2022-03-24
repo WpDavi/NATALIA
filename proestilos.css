@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body {    
+    background-image: linear-gradient( 134deg, #fcc6c6, 45%, white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    
+}
+body img {
+    display: block;
+    max-width: 600px;
+    margin: auto;
+    margin-top: 40px;
+    transition: 0.2s;
+}
+
+body img:hover {
+    transform: scale(1.2);
+}
+
+main {
+    width: 1300px;
+    margin: auto;
+}
+
+main ul {
+    
+    margin-top: 50px;
+    font-size: 27px;
+    margin-left: 40px;
+    color: #7C451E;
+} 
+
+
+
+
+.lista {
+    color: #946038;
+    margin-top: 30px;
+}
