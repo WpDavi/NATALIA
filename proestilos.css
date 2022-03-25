@@ -19,10 +19,11 @@ body img {
 
 body img:hover {
     transform: scale(1.2);
+    margin: 20px;
 }
 
 main {
-    width: 1300px;
+    max-width: 1300px;
     margin: auto;
 }
 
